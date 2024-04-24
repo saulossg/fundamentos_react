@@ -16,3 +16,9 @@
   
     --green-500: #00875f;
   }
+
+  body {
+    background: var(--gray-900);
+    color: (--gray-300);
+    -webkit-font-smoothing: antialiased;
+  }
